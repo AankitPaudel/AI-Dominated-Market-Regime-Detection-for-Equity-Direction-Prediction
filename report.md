@@ -2,7 +2,7 @@
 
 **FINAL PROJECT REPORT**
 
-**Team:** Sohan Lama & Ankit Paudel  
+**Team:**Ankit Paudel  
 **Course:** CS 4771 - Machine Learning  
 **University:** University of Idaho  
 **Date:** November 28, 2025
