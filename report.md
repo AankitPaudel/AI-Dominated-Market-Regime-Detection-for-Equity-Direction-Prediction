@@ -474,7 +474,7 @@ All tables available in `results/tables/`:
 
 ## Acknowledgments
 
-We thank:
+Thank:
 - **Professor** for guidance and feedback
 - **Yahoo Finance** for free historical data
 - **NewsAPI** and **Reddit** for data access
@@ -482,6 +482,5 @@ We thank:
 
 ---
 
-**End of Report**
 
 
